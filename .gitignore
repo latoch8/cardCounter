@@ -1,0 +1,8 @@
+#Files
+*.jpg
+
+#Folders
+.git/
+.vscode/
+Croupier/
+Player/
